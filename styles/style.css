@@ -2,7 +2,7 @@ body{
     text-align: center;
     font-family:monospace;
     color:white;
-    background: url("back.jpg") fixed center;
+    background: url("back.png") fixed center;
 }
 
 h1{
